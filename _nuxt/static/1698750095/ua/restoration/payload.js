@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ua/restoration", {data:[{}],fetch:{},mutations:void 0});

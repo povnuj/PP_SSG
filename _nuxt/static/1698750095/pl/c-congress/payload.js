@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pl/c-congress", {data:[{}],fetch:{},mutations:void 0});

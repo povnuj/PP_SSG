@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ua/c-routes", {data:[{}],fetch:{},mutations:void 0});
