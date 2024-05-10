@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/c-implementation", {data:[{}],fetch:{},mutations:void 0});

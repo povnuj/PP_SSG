@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/c-hub-page", {data:[{}],fetch:{},mutations:void 0});

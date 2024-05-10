@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ua/c-implementation", {data:[{}],fetch:{},mutations:void 0});

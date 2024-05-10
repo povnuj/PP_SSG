@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/term", {data:[{}],fetch:{},mutations:void 0});

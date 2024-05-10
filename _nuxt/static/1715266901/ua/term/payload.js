@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ua/term", {data:[{}],fetch:{},mutations:void 0});

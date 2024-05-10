@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/ua/contest", {data:[{}],fetch:{},mutations:void 0});
